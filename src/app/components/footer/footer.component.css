@@ -1,0 +1,57 @@
+.hello {
+  font-family: HelveticaNowBold;
+  font-size: 3rem;
+  padding-right: 1rem;
+  color: #ff5925;
+}
+
+a{
+  color: #3e83fb;
+}
+
+
+a{
+  font-family: HelveticaNow;
+  font-size: 1.5rem;
+  padding-right: 1rem;
+}
+
+a{
+  color: #3e83fb;
+}
+
+
+.title{
+  font-family: HelveticaNowBold;
+  font-size: 2rem;
+  justify-content: left;
+}
+
+.ww{
+  justify-content: right;
+}
+
+.brace{
+  font-family: HelveticaNowBold;
+  font-size: 10rem;
+  padding-right: 1rem;
+  color: #5cda42;
+}
+
+.mee{
+  font-family: HelveticaNow;
+  font-size: 2rem;
+  padding-right: 1rem;
+}
+
+.me{
+  font-family: HelveticaNowBold;
+  font-size: 1rem;
+  padding-right: 1rem;
+}
+
+.mainText{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 3rem;
+}
