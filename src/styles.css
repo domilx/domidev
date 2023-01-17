@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'HelveticaNow';
+  src: local("HelveticaNow"),  url('./assets/fonts/HelveticaNow.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'HelveticaNowBold';
+  src: local("HelveticaNowText-ExtraBold"),  url('./assets/fonts/HelveticaNowText-ExtraBold.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'HelveticaNowText-Black';
+  src: local("HelveticaNowText-Black"),  url('./assets/fonts/HelveticaNowText-Black.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'HelveticaNowText-MediumItalic';
+  src: local("HelveticaNowText-MediumItalic"),  url('./assets/fonts/HelveticaNowText-MediumItalic.ttf') format("truetype");
+}
