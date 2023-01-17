@@ -22,3 +22,8 @@
   font-family: 'HelveticaNowText-MediumItalic';
   src: local("HelveticaNowText-MediumItalic"),  url('./assets/fonts/HelveticaNowText-MediumItalic.ttf') format("truetype");
 }
+
+@font-face {
+  font-family: 'HelveticaNowText-Regular';
+  src: local("HelveticaNowText-Regular"),  url('./assets/fonts/HelveticaNowText-Regular.ttf') format("truetype");
+}
